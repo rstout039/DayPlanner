@@ -6,6 +6,6 @@ The timeblocks will be color coated to indicate past, present, and future events
 When you click on a timeblock you can enter an event. 
 When you click on the save button that event will be stored into local storage.
 That event will then be saved and displayed into the calendar/planner and will appear when you refresh the page.
-https://github.com/rstout039/DayPlanner/blob/main/dayplanner/html
-https://github.com/rstout039/DayPlanner/blob/main/dayplanner/css
-https://github.com/rstout039/DayPlanner/blob/main/dayplanner/js
+https://github.com/rstout039/DayPlanner/blob/main/dayplanner/index.html
+https://github.com/rstout039/DayPlanner/blob/main/dayplanner/style.css
+https://github.com/rstout039/DayPlanner/blob/main/dayplanner/index.js
